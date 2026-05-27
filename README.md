@@ -6,9 +6,10 @@ Ce projet met en place un pipeline complet de Machine Learning et Deep Learning 
 
 
 
-L'étude s'appuie sur le dataset public \*\*UCI HAR\*\*.
+L'étude s'appuie sur le dataset public \*\*Human Activity Recognition Using Smartphones\*\*.
 
 \*(Note : Les dossiers `Train/` et `Test/` ne sont pas inclus dans ce dépôt. Vous pouvez télécharger le dataset original \[ici - insère le lien UCI] et placer les dossiers à la racine).\*
+Mais on peut retrouver les données directement ici : https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 
 
 
